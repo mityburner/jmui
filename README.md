@@ -9,7 +9,7 @@ Mobile UI React Components
 Live Demo
 ---------
 
-https://junewinds.github.io/jmui
+https://choujimmy.github.io/jmui/
 
 Features
 --------
