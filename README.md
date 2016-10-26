@@ -1,9 +1,9 @@
 Mobile UI React Components
 ==========================
 
-[![Build Status](https://travis-ci.org/junewinds/jmui.svg?branch=master)](https://travis-ci.org/junewinds/jmui?branch=master)
-[![dependencies](https://david-dm.org/junewinds/jmui.svg)](https://david-dm.org/junewinds/jmui)
-[![devDependency Status](https://david-dm.org/junewinds/jmui/dev-status.svg)](https://david-dm.org/junewinds/jmui#info=devDependencies)
+[![Build Status](https://travis-ci.org/choujimmy/jmui.svg?branch=master)](https://travis-ci.org/choujimmy/jmui?branch=master)
+[![dependencies](https://david-dm.org/choujimmy/jmui.svg)](https://david-dm.org/choujimmy/jmui)
+[![devDependency Status](https://david-dm.org/choujimmy/jmui/dev-status.svg)](https://david-dm.org/choujimmy/jmui#info=devDependencies)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 Live Demo
@@ -97,4 +97,4 @@ TODO
 Contributing
 ------------
 
-We welcome all contributions, please submit any ideas as [pull requests](https://github.com/junewinds/jmui/pulls) or as a [GitHub issue](https://github.com/junewinds/jmui/issues).
+We welcome all contributions, please submit any ideas as [pull requests](https://github.com/choujimmy/jmui/pulls) or as a [GitHub issue](https://github.com/choujimmy/jmui/issues).
