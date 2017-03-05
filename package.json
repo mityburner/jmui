@@ -1,26 +1,27 @@
 {
   "name": "jmui",
-  "description": "React Mobile Functional UI Components",
+  "description": "Mobile UI React Components",
   "author": "Jimmy Chou <zliangyu@gmail.com>",
   "license": "MIT",
-  "version": "0.1.5",
+  "version": "0.1.9",
   "repository": {
     "type": "git",
-    "url": "https://github.com/junewinds/jmui.git"
+    "url": "https://github.com/choujimmy/jmui.git"
   },
   "bugs": {
-    "url": "https://github.com/junewinds/jmui/issues"
+    "url": "https://github.com/choujimmy/jmui/issues"
   },
-  "homepage": "https://junewinds.github.io/jmui",
+  "homepage": "https://choujimmy.github.io/jmui",
   "author": "Jimmy Chou <zliangyu@gmail.com>",
   "keywords": [
     "react",
-    "webpack",
-    "babel",
+    "ui",
     "mobile",
     "framework",
-    "css",
-    "components"
+    "components",
+    "library",
+    "wechat",
+    "react-component"
   ],
   "main": "./lib/",
   "jsnext:main": "./src/",
@@ -70,9 +71,9 @@
     "classnames": "^2.2.3"
   },
   "peerDependencies": {
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7",
-    "react-addons-css-transition-group": "^0.14.7"
+    "react": "^0.15.2",
+    "react-dom": "^0.15.2",
+    "react-addons-css-transition-group": "^0.15.2"
   },
   "devDependencies": {
     "react": "^0.14.7",
@@ -141,7 +142,7 @@
     "html-webpack-plugin": "^2.9.0"
   },
   "engines": {
-    "node": ">=4.3.0",
+    "node": ">=4.3.0 <6.0",
     "npm": "^3.0.0"
   },
   "npmName": "jmui"
